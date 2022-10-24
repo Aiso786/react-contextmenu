@@ -1,4 +1,5 @@
 # Contributing
+
 First off, thanks for taking the time to contribute.
 
 Please read https://reactjs.org/ and the Code of Conduct before opening an issue.
@@ -6,16 +7,17 @@ Please read https://reactjs.org/ and the Code of Conduct before opening an issue
 ### Found a bug?
 
 ##### Before Submitting A Bug Report
-- Please read the [API documentation](https://github.com/vkbansal/react-contextmenu#api) thoroughly
-- Perform a [cursory search](https://github.com/vkbansal/react-contextmenu/issues?utf8=%E2%9C%93&q=is%3Aissue) to see if the problem has already been reported. If it has, add a comment to the existing issue instead of opening a new one.
+
+- Please read the [API documentation](https://github.com/@aiso786/react-contextmenu#api) thoroughly
+- Perform a [cursory search](https://github.com/@aiso786/react-contextmenu/issues?utf8=%E2%9C%93&q=is%3Aissue) to see if the problem has already been reported. If it has, add a comment to the existing issue instead of opening a new one.
 
 ##### Submiting a (good) bug report
 
--   **Use a clear and descriptive title** for the issue to identify the problem.
--   **Provide specific examples to demonstrate the steps**. Include links to CodePen/JS Bin or GitHub projects, or copy/paste-able snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
--   **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
--   **Explain which behavior you expected to see instead and why.**
--   **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem.
+- **Use a clear and descriptive title** for the issue to identify the problem.
+- **Provide specific examples to demonstrate the steps**. Include links to CodePen/JS Bin or GitHub projects, or copy/paste-able snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
+- **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
+- **Explain which behavior you expected to see instead and why.**
+- **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem.
 
 ### Proposing New or Changed API?
 
@@ -27,10 +29,10 @@ Pull requests need only the 👍 of admin or two or more collaborators to be mer
 
 ##### Linting and Tests
 
--   All the commits must pass lint and tests.
--   All commits that fix bugs or add features need a test.
+- All the commits must pass lint and tests.
+- All commits that fix bugs or add features need a test.
 
-You can run lint + tests  via:
+You can run lint + tests via:
 
 ```
 npm test
@@ -55,6 +57,3 @@ You can start webpack & dev server that watches for changes and build the exampl
 ```
 npm start
 ```
-
-
-

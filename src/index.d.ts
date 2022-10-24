@@ -22,6 +22,7 @@ declare module "@aiso786/react-contextmenu" {
     preventHideOnResize?: boolean;
     preventHideOnScroll?: boolean;
     style?: React.CSSProperties;
+    [key: string]: any;
   }
 
   export interface ContextMenuTriggerProps {
