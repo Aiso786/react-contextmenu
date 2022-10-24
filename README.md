@@ -1,5 +1,3 @@
-# Project is no longer maintained
-
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Dependency Status][deps-image]][deps-url]
@@ -11,6 +9,7 @@
 # React Contextmenu
 
 ContextMenu in React with accessibility support. Live Examples can be found [here](//vkbansal.github.io/react-contextmenu/)
+This is a fork of [https://github.com/vkbansal/react-contextmenu](https://github.com/vkbansal/react-contextmenu)
 
 ## Table of contents
 
