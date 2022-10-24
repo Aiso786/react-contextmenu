@@ -1,6 +1,6 @@
 {
   "name": "@aiso786/react-contextmenu",
-  "version": "2.14.7",
+  "version": "2.14.8",
   "description": "Context Menu implemented in React. Fork of react-contextmenu",
   "main": "modules/index.js",
   "module": "es6/index.js",
